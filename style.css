@@ -1,0 +1,30 @@
+body {
+    font-family: 'Caveat Brush', cursive;
+    background: radial-gradient(lightgray,white);
+}
+h2 {
+    color: white;
+background-image: url(images/image1.jpg);
+text-align: center;
+background-size: contain cover;
+padding: 80px;
+font-size: 75px;
+text-shadow:15px 15px 15px #f8a5c2;
+margin-top: 0%;
+}
+footer {
+    background-color: #f8a5c2;
+    color: white;
+    padding: 10px;
+    margin-top: 5%;
+}
+.right {
+    float: right;
+}
+h3 {
+    font-size: 30px;
+}
+
+button {
+    margin-left: 45%;
+}
